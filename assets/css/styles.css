@@ -1,6 +1,7 @@
 body {
     background-image: url("../images/cheap_diagonal_fabric.png");
 }
+
 .image-label {
     font-family: 'Georgia', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: absolute;
@@ -25,6 +26,7 @@ body {
     margin: 0 30px 30px 0;
 
 }
+
 section {
     position: relative;
     margin: 0;
